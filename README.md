@@ -1,6 +1,8 @@
-# 공부할 주제들 정리
-- [ ] Kotlin deep dive?
-- [ ] Coroutine
+# 공부한 내용을 md 파일로 정리하는 리파지토리
+## 진행중인 주제
+- [ ] 디자인 패턴
 - [ ] DDD
-- [ ] Design-Pattern
-- [ ] Concurrency
+
+## 완료한 주제
+
+
